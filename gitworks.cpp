@@ -45,5 +45,7 @@ int main(){
 //git clone https://github.com/Dessdelac/STUD-PRACTICE-C
 //теперь есть полный репозиторий с гита
 
-//Отправлю данный файл на удалённый репозиторий командой
-//git push STUD-PRACTICE-C main
+//Перед отправкой связываем локальный проект с онлайн репозиторием
+//git remote add repo_name repo_url
+//11. Отправлю данный файл на удалённый репозиторий командой
+//git push OOP master
