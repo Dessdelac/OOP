@@ -2,6 +2,7 @@
 
 using namespace std;
 
+//это ответвление программы из ветки dev
 int main(){
 
     return 0;
@@ -20,3 +21,6 @@ int main(){
 //можно командой git diff "commit1" "commit2"
 
 //6. Создать ветку можно командой git branch branch_name
+//посмотреть все ветки можно командой git branch
+
+//7. Переключиться на ветку можно командой git switch branch_name
